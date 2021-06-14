@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ylJza9Of/xn82L3DQHi+Ix9hOXxihvZJDhOL45cdtNSf9XC/rVG0lYkuX+aAvW8lzXLD6hefMyb+n/RE3gq6bA==",
+  "dgSpecHash": "fChT86gbxQH/+HmR4cUccZr72oQ0BoR8ArtxCjTI00VAS3KxLxRAkluDHPfGXTXL9LGgWZH1dpRiDfLvpo61TA==",
   "success": true,
-  "projectFilePath": "E:\\Code\\api\\apiLoginTracker\\WebApplication1apiLoginTracker\\apiLoginTracker.csproj",
+  "projectFilePath": "E:\\Code\\api\\apiLoginTracker\\apiLoginTracker\\apiLoginTracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rich\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\rich\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

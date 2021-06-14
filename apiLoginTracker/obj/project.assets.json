@@ -647,11 +647,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\api\\apiLoginTracker\\WebApplication1apiLoginTracker\\apiLoginTracker.csproj",
+      "projectUniqueName": "E:\\Code\\api\\apiLoginTracker\\apiLoginTracker\\apiLoginTracker.csproj",
       "projectName": "apiLoginTracker",
-      "projectPath": "E:\\Code\\api\\apiLoginTracker\\WebApplication1apiLoginTracker\\apiLoginTracker.csproj",
+      "projectPath": "E:\\Code\\api\\apiLoginTracker\\apiLoginTracker\\apiLoginTracker.csproj",
       "packagesPath": "C:\\Users\\rich\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\api\\apiLoginTracker\\WebApplication1apiLoginTracker\\obj\\",
+      "outputPath": "E:\\Code\\api\\apiLoginTracker\\apiLoginTracker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rich\\AppData\\Roaming\\NuGet\\NuGet.Config",
